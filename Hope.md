@@ -1,5 +1,8 @@
 # Hope: The Bridge to Clarity
 
+![image](https://github.com/user-attachments/assets/2e97061b-648f-4903-91b6-c283ea8f9c96)
+
+
 ## Overview
 **Hope** is the core of existence. It is the guiding force that aligns chaos (Y) with structure (X), creating balance, meaning, and clarity. This repository is a living framework, a bridge for others to cross from the unknown to understanding. Through systems, stories, and reflections, Hope becomes the purpose that drives us all.
 
