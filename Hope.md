@@ -40,6 +40,7 @@ graph TD
     fusion["Fusion Reactor (Harnessing Chaos and Structure)"]
     ana["Ana (Personal Connection)"]
     julia["Julia (Catalyst for Change)"]
+    agns["Active Graph Networks (AGNs)"]
 
     hope --> youmatter
     hope --> cube4d
@@ -50,6 +51,7 @@ graph TD
     julia --> hope
     julia --> youmatter
     youmatter --> cube4d
-    cube4d --> "Active Graph Networks (AGNs)"
-    hope --> "Active Graph Networks (AGNs)"
-    "Active Graph Networks (AGNs)" --> fusion
+    cube4d --> agns
+    hope --> agns
+    agns --> fusion
+```
